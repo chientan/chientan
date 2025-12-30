@@ -1,4 +1,4 @@
-👋 Hi, I’m @chientan
+(https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&width=435&lines=Chientan)](https://git.io/typing-svg)👋 Hi, I’m @chientan
 - 👀 I’m interested in Full-stack web development 
 - 🌱 I’m currently learning web d
   
