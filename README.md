@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=rect&color=0:00ff00,100:00ff00&height=120&section=header&text=CHIENTAN&fontSize=60&fontAlignY=50- 👋 Hi, I’m @chientan
+👋 Hi, I’m @chientan
 - 👀 I’m interested in Full-stack web development 
 - 🌱 I’m currently learning web d
   
