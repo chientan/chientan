@@ -1,6 +1,6 @@
   👋 Hi, I’m @chientan
 - 👀 I’m interested in Full-stack web development 
-- 🌱 I’m currently learning web d
+- 🌱 I’m currently learning web development
   
   
 
